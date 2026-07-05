@@ -23,5 +23,10 @@
     "name": "李小凤",
     "studentId": "2413054005",
     "banned": false
+  },
+  {
+    "name": "郭乙锦",
+    "studentId": "2413054006",
+    "banned": false
   }
 ]
