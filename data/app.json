@@ -50,5 +50,18 @@
     ],
     "status": "approved",
     "createdAt": 1783263072918
+  },
+  {
+    "id": "1783267148525_sjn8uf_system",
+    "name": "system(系统管理员)",
+    "packageName": "system",
+    "versionName": "青年逐梦.绿菌争锋班级足球场友谊赛",
+    "publisher": "2026-07-05 23:58",
+    "participants": "ssss",
+    "screenshots": [
+      "_cgi-bin_mmwebwx-bin_webwxgetmsgimg__%26MsgID%3D1297055588058612250%26skey%3D%40crypt_fecb1988_ad8b390a6521373e41e4d24ea5bdb42f%26mmweb_appid%3Dwx_webfilehelper.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1783267150938
   }
 ]
