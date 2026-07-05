@@ -258,5 +258,10 @@
     "name": "何思帆",
     "studentId": "2213054029",
     "banned": false
+  },
+  {
+    "name": "system(系统管理员)",
+    "studentId": "system",
+    "banned": false
   }
 ]
