@@ -11,5 +11,18 @@
     ],
     "status": "pending",
     "createdAt": 1783261900744
+  },
+  {
+    "id": "1783262488294_rsz0z4_system",
+    "name": "system(系统管理员)",
+    "packageName": "system",
+    "versionName": "青年逐梦.绿菌争锋班级足球场友谊赛",
+    "publisher": "2026-07-05 22:41",
+    "participants": "啊啊啊",
+    "screenshots": [
+      "%E5%A4%8F%E6%97%A5%E6%9C%8D%E9%A5%B0%E7%AE%B1%E5%8C%85%E5%95%86%E5%93%81%E9%9B%B6%E5%94%AE%E8%93%9D%E8%89%B2%E6%B8%85%E6%96%B0%E6%84%9F%E7%94%B5%E5%95%86%E7%9B%B4%E6%92%AD%E9%97%B4%E8%B4%B4%E7%89%87%E7%BB%84%E5%90%88.png"
+    ],
+    "status": "pending",
+    "createdAt": 1783262490546
   }
 ]
