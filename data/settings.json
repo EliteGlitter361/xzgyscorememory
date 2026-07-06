@@ -1,4 +1,4 @@
 {
   "enabled": false,
-  "message": "当前学期结束，学分申请服务暂停。（详细信息请联系管理员）\nSystemCode 42：The credit application channel has been closed"
+  "message": "当前学期结束，学分申请服务暂停。\nSysCode 42：The credit application channel has been closed"
 }
