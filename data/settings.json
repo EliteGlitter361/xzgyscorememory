@@ -1,4 +1,4 @@
 {
-  "enabled": true,
-  "message": "当前学期结束，学分申请暂停服务。"
+  "enabled": false,
+  "message": "当前学期结束，学分申请服务暂停。"
 }
