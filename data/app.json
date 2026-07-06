@@ -76,5 +76,18 @@
     ],
     "status": "approved",
     "createdAt": 1783306923683
+  },
+  {
+    "id": "1783332019470_6lr5h6_2413054029",
+    "name": "纪佳欢",
+    "packageName": "2413054029",
+    "versionName": "心理健康_箱庭疗愈",
+    "publisher": "2026-07-06 17:57",
+    "participants": "纪佳欢",
+    "screenshots": [
+      "1000042680.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1783332023353
   }
 ]
