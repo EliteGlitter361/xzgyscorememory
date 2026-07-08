@@ -90,18 +90,5 @@
     ],
     "status": "approved",
     "createdAt": 1783332255523
-  },
-  {
-    "id": "1783519376410_mw4cv1_2413054027",
-    "name": "王亮",
-    "packageName": "2413054027",
-    "versionName": "讲宪法演讲比赛一等奖",
-    "publisher": "2026-07-08 22:01",
-    "participants": "王亮",
-    "screenshots": [
-      "20260708_220246.jpg"
-    ],
-    "status": "approved",
-    "createdAt": 1783519378479
   }
 ]
