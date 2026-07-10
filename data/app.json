@@ -182,5 +182,18 @@
     ],
     "status": "approved",
     "createdAt": 1783660389998
+  },
+  {
+    "id": "1783660540016_3chibc_2413054020",
+    "name": "岗拉美多",
+    "packageName": "2413054020",
+    "versionName": "出征仪式",
+    "publisher": "2026-07-10 13:14",
+    "participants": "佳欣 纪佳欢 单增旺姆 次仁央金 扎西曲宗 旦增旺珍 布姆吉 加央 岗拉美多 旦增格吉 卓吉 索朗曲珍 格列尼玛 白玛央宗",
+    "screenshots": [
+      "mmexport682096b4a85caaa43ced878512fa33ad_1783660325975.jpeg"
+    ],
+    "status": "pending",
+    "createdAt": 1783660542221
   }
 ]
