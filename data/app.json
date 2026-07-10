@@ -142,5 +142,19 @@
     ],
     "status": "approved",
     "createdAt": 1783659986615
+  },
+  {
+    "id": "1783660052117_ma1w4s_2413054029",
+    "name": "纪佳欢",
+    "packageName": "2413054029",
+    "versionName": "学习网络强国重要思想",
+    "publisher": "2026-07-10 13:06",
+    "participants": "卓吉\r\n格列尼玛\r\n布姆吉\r\n岗拉美多\r\n旦木真\r\n洛桑曲塔\r\n纪佳欢\r\n加央\r\n旦增格吉\r\n索朗曲珍",
+    "screenshots": [
+      "Screenshot_2026-07-10-12-49-17-278_com.tencent.mm.jpg",
+      "mmexport1783659961699.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1783660054942
   }
 ]
