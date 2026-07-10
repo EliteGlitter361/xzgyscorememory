@@ -195,5 +195,19 @@
     ],
     "status": "approved",
     "createdAt": 1783660733026
+  },
+  {
+    "id": "1783660813970_rqto10_2413054020",
+    "name": "岗拉美多",
+    "packageName": "2413054020",
+    "versionName": "学习网络重要思想",
+    "publisher": "2026-07-10 13:18",
+    "participants": "卓吉 格列尼玛 布姆吉 岗拉美多 旦木真 洛桑曲塔 纪佳欢 加央 旦增格吉 索朗曲珍",
+    "screenshots": [
+      "mmexporte33c0b551f8a103d8f6fbf3b1bf56769_1783660716186.jpeg",
+      "mmexportb1a44d7567958dc709655d905ef67d8e_1783660724364.jpeg"
+    ],
+    "status": "pending",
+    "createdAt": 1783660818087
   }
 ]
