@@ -235,5 +235,18 @@
     ],
     "status": "pending",
     "createdAt": 1783662175608
+  },
+  {
+    "id": "1783662228413_4tblw3_2413054021",
+    "name": "布姆吉",
+    "packageName": "2413054021",
+    "versionName": "学习网络强国的重要思想",
+    "publisher": "2026-07-10 13:40",
+    "participants": "卓吉 格列尼玛 布姆吉 岗拉美多 旦木真 洛桑曲塔 纪佳欢 加央 旦增格吉 索朗曲珍",
+    "screenshots": [
+      "mmexport3bfe997a6738859f0de473ac49e2d9c8_1783660360011.jpeg"
+    ],
+    "status": "pending",
+    "createdAt": 1783662230365
   }
 ]
