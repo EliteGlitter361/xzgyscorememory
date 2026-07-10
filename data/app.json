@@ -129,5 +129,18 @@
     ],
     "status": "approved",
     "createdAt": 1783658182704
+  },
+  {
+    "id": "1783659984669_bljqhe_system",
+    "name": "system(系统管理员)",
+    "packageName": "system",
+    "versionName": "2026暑期\"三下乡\"实践出征仪式（上海行团队）",
+    "publisher": "2026-07-10 13:04",
+    "participants": "杨森淼    陈弈轩     李小凤",
+    "screenshots": [
+      "1000170378.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1783659986615
   }
 ]
