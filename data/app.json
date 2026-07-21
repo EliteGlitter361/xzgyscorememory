@@ -248,5 +248,19 @@
     ],
     "status": "rejected",
     "createdAt": 1783662230365
+  },
+  {
+    "id": "1784598382971_zsvr9v_system",
+    "name": "system(系统管理员)",
+    "packageName": "system",
+    "versionName": "上海研学",
+    "publisher": "2026-07-21 09:44",
+    "participants": "陈弈轩，杨森淼，李小凤",
+    "screenshots": [
+      "1000174490.jpg",
+      "1000173956.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1784598386646
   }
 ]
