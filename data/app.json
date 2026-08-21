@@ -249,5 +249,18 @@
     ],
     "status": "rejected",
     "createdAt": 1787315592583
+  },
+  {
+    "id": "1787325234064_9qcjm0_2413054025",
+    "name": "余美静",
+    "packageName": "2413054025",
+    "versionName": "创新创业大赛志愿者",
+    "publisher": "2025-11-21 08:10",
+    "participants": "余美静",
+    "screenshots": [
+      "1000068490.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1787325237341
   }
 ]
