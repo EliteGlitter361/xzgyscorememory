@@ -262,5 +262,18 @@
     ],
     "status": "approved",
     "createdAt": 1787325237341
+  },
+  {
+    "id": "1787503598095_4ez5vw_system",
+    "name": "system(系统管理员)",
+    "packageName": "system",
+    "versionName": "aa",
+    "publisher": "2026-08-24 00:46",
+    "participants": "aaa",
+    "screenshots": [
+      "1000184360.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1787503600169
   }
 ]
