@@ -39,19 +39,6 @@
     "createdAt": 1783262781034
   },
   {
-    "id": "1783263069677_7t2jh8_system",
-    "name": "system(系统管理员)",
-    "packageName": "system",
-    "versionName": "青年逐梦.绿菌争锋班级足球场友谊赛",
-    "publisher": "2026-07-05 22:50",
-    "participants": "洛追永沙  四郎洛珠  旦增曲郎   扎西曲达  \r\n洛桑曲塔  普布顿珠   尼玛欧珠  扎西旺堆   \r\n旦木真       次仁旺加  益西多吉   斯塔次旺",
-    "screenshots": [
-      "_cgi-bin_mmwebwx-bin_webwxgetmsgimg__%26MsgID%3D3462970089445023941%26skey%3D%40crypt_fecb1988_e1926fe55a1254da3d2545d57948e4a1%26mmweb_appid%3Dwx_webfilehelper.jpg"
-    ],
-    "status": "approved",
-    "createdAt": 1783263072918
-  },
-  {
     "id": "1783267148525_sjn8uf_system",
     "name": "system(系统管理员)",
     "packageName": "system",
@@ -63,99 +50,6 @@
     ],
     "status": "rejected",
     "createdAt": 1783267150938
-  },
-  {
-    "id": "1783306920529_uo9hlz_2413054042",
-    "name": "次仁央金",
-    "packageName": "2413054042",
-    "versionName": "看电影",
-    "publisher": "2026-05-15 19:00",
-    "participants": "次仁央金，杨森淼，扎西曲宗，单增旺姆，永忠旺姆",
-    "screenshots": [
-      "1000042594.jpg"
-    ],
-    "status": "approved",
-    "createdAt": 1783306923683
-  },
-  {
-    "id": "1783332251575_gktmej_2413054029",
-    "name": "纪佳欢",
-    "packageName": "2413054029",
-    "versionName": "心理健康_箱庭疗愈",
-    "publisher": "2026-07-06 18:03",
-    "participants": "纪佳欢",
-    "screenshots": [
-      "1000042682.jpg",
-      "1000042680.jpg"
-    ],
-    "status": "approved",
-    "createdAt": 1783332255523
-  },
-  {
-    "id": "1783604125570_o8azki_2413054027",
-    "name": "王亮",
-    "packageName": "2413054027",
-    "versionName": "讲宪法演讲比赛一等奖",
-    "publisher": "2026-07-09 21:34",
-    "participants": "王亮",
-    "screenshots": [
-      "20260709_213509.jpg"
-    ],
-    "status": "approved",
-    "createdAt": 1783604128458
-  },
-  {
-    "id": "1783658179831_xdbwe8_2413054029",
-    "name": "纪佳欢",
-    "packageName": "2413054029",
-    "versionName": "女性身心健康教育讲座",
-    "publisher": "2025-11-27 12:34",
-    "participants": "全班女生",
-    "screenshots": [
-      "mmexport1783658090747.jpg"
-    ],
-    "status": "approved",
-    "createdAt": 1783658182704
-  },
-  {
-    "id": "1783659984669_bljqhe_system",
-    "name": "system(系统管理员)",
-    "packageName": "system",
-    "versionName": "2026暑期\"三下乡\"实践出征仪式（上海行团队）",
-    "publisher": "2026-07-10 13:04",
-    "participants": "杨森淼    陈弈轩     李小凤",
-    "screenshots": [
-      "1000170378.jpg"
-    ],
-    "status": "approved",
-    "createdAt": 1783659986615
-  },
-  {
-    "id": "1783660052117_ma1w4s_2413054029",
-    "name": "纪佳欢",
-    "packageName": "2413054029",
-    "versionName": "学习网络强国重要思想",
-    "publisher": "2026-07-10 13:06",
-    "participants": "卓吉\r\n格列尼玛\r\n布姆吉\r\n岗拉美多\r\n旦木真\r\n洛桑曲塔\r\n纪佳欢\r\n加央\r\n旦增格吉\r\n索朗曲珍",
-    "screenshots": [
-      "Screenshot_2026-07-10-12-49-17-278_com.tencent.mm.jpg",
-      "mmexport1783659961699.jpg"
-    ],
-    "status": "approved",
-    "createdAt": 1783660054942
-  },
-  {
-    "id": "1783660387343_2ft7ku_2413054029",
-    "name": "纪佳欢",
-    "packageName": "2413054029",
-    "versionName": "三下乡.出征仪式",
-    "publisher": "2026-07-10 13:11",
-    "participants": "纪佳欢 单增旺姆\r\n次仁央金  扎西曲宗  旦增旺珍  布姆吉  加央  岗拉美多  旦增格吉  卓吉  索朗曲珍  格列尼玛   白玛央宗",
-    "screenshots": [
-      "IMG_20260710_131126.jpg"
-    ],
-    "status": "approved",
-    "createdAt": 1783660389998
   },
   {
     "id": "1783660540016_3chibc_2413054020",
@@ -224,20 +118,6 @@
     "createdAt": 1783662230365
   },
   {
-    "id": "1784598382971_zsvr9v_system",
-    "name": "system(系统管理员)",
-    "packageName": "system",
-    "versionName": "上海研学",
-    "publisher": "2026-07-21 09:44",
-    "participants": "陈弈轩，杨森淼，李小凤",
-    "screenshots": [
-      "1000174490.jpg",
-      "1000173956.jpg"
-    ],
-    "status": "approved",
-    "createdAt": 1784598386646
-  },
-  {
     "id": "1787315590756_lodotk_2413054004",
     "name": "时娇娇",
     "packageName": "2413054004",
@@ -249,19 +129,6 @@
     ],
     "status": "rejected",
     "createdAt": 1787315592583
-  },
-  {
-    "id": "1787325234064_9qcjm0_2413054025",
-    "name": "余美静",
-    "packageName": "2413054025",
-    "versionName": "创新创业大赛志愿者",
-    "publisher": "2025-11-21 08:10",
-    "participants": "余美静",
-    "screenshots": [
-      "1000068490.jpg"
-    ],
-    "status": "approved",
-    "createdAt": 1787325237341
   },
   {
     "id": "1787503598095_4ez5vw_system",
