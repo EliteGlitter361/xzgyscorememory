@@ -196,5 +196,18 @@
     ],
     "status": "pending",
     "createdAt": 1789644690714
+  },
+  {
+    "id": "1789644722696_obhwhq_2413054042",
+    "name": "次仁央金",
+    "packageName": "2413054042",
+    "versionName": "金典阅读与人文素质的提升",
+    "publisher": "2026-09-17 19:25",
+    "participants": "单增旺姆  次仁央金  扎西曲宗",
+    "screenshots": [
+      "1000047492.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1789644725458
   }
 ]
