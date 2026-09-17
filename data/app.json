@@ -196,5 +196,18 @@
     ],
     "status": "approved",
     "createdAt": 1789644690714
+  },
+  {
+    "id": "1789650415182_in0v9m_2413054029",
+    "name": "纪佳欢",
+    "packageName": "2413054029",
+    "versionName": "经典阅读与人文素养的提升",
+    "publisher": "2026-09-17 21:05",
+    "participants": "纪佳欢  次仁央金  扎西曲宗  单增旺姆",
+    "screenshots": [
+      "1000646924.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1789650417317
   }
 ]
