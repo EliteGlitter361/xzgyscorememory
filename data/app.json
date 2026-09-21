@@ -209,5 +209,18 @@
     ],
     "status": "approved",
     "createdAt": 1789650417317
+  },
+  {
+    "id": "1789977270753_36cmab_2413054029",
+    "name": "纪佳欢",
+    "packageName": "2413054029",
+    "versionName": "讲解创新创业PPT",
+    "publisher": "2026-09-21 15:52",
+    "participants": "纪佳欢  加央  次仁央金  扎西曲宗  单增旺姆  胥佳欣  时娇娇",
+    "screenshots": [
+      "1000650199.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1789977273892
   }
 ]
