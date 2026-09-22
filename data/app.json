@@ -367,5 +367,19 @@
     ],
     "status": "pending",
     "createdAt": 1790082173131
+  },
+  {
+    "id": "1790082332931_ycew87_system",
+    "name": "system(系统管理员)",
+    "packageName": "system",
+    "versionName": "宏志助航(第二档)",
+    "publisher": "2026-09-22 21:03",
+    "participants": "布姆吉",
+    "screenshots": [
+      "1000192916.jpg",
+      "1000192915.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1790082338493
   }
 ]
