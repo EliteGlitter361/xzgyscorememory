@@ -314,5 +314,18 @@
     ],
     "status": "approved",
     "createdAt": 1790078978892
+  },
+  {
+    "id": "1790079462808_egeqo9_2413054042",
+    "name": "次仁央金",
+    "packageName": "2413054042",
+    "versionName": "创新创业：把握时代机遇",
+    "publisher": "2026-09-22 20:15",
+    "participants": "纪佳欢  时娇娇  单增旺姆  扎西曲宗  加央  胥家欣  次仁央金",
+    "screenshots": [
+      "1000047721.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1790079464119
   }
 ]
