@@ -353,5 +353,19 @@
     ],
     "status": "pending",
     "createdAt": 1790080137400
+  },
+  {
+    "id": "1790082167650_k6n1sw_system",
+    "name": "system(系统管理员)",
+    "packageName": "system",
+    "versionName": "宏志助航（第一档）",
+    "publisher": "2026-09-22 20:54",
+    "participants": "卓吉，岗拉美多，格列尼玛，斯塔次旺，刘子宇",
+    "screenshots": [
+      "1000192913.jpg",
+      "1000192914.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1790082173131
   }
 ]
