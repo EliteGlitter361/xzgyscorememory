@@ -261,5 +261,18 @@
     ],
     "status": "approved",
     "createdAt": 1789991860603
+  },
+  {
+    "id": "1790050863829_m5wj4t_2413054029",
+    "name": "纪佳欢",
+    "packageName": "2413054029",
+    "versionName": "就业能力学习证书",
+    "publisher": "2026-09-22 12:20",
+    "participants": "纪佳欢",
+    "screenshots": [
+      "1000650198.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1790050865284
   }
 ]
