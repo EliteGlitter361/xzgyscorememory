@@ -381,5 +381,19 @@
     ],
     "status": "pending",
     "createdAt": 1790082338493
+  },
+  {
+    "id": "1790082482965_cy5d30_system",
+    "name": "system(系统管理员)",
+    "packageName": "system",
+    "versionName": "宏志助航(第五档)",
+    "publisher": "2026-09-22 21:06",
+    "participants": "纪佳欢，次仁央金，扎西曲宗，单增旺姆",
+    "screenshots": [
+      "1000192918.jpg",
+      "1000192917.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1790082487638
   }
 ]
