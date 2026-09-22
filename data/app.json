@@ -274,5 +274,18 @@
     ],
     "status": "approved",
     "createdAt": 1790050865284
+  },
+  {
+    "id": "1790051288143_vy57wo_2413054029",
+    "name": "纪佳欢",
+    "packageName": "2413054029",
+    "versionName": "创新创业：青年与城市共成长",
+    "publisher": "2026-09-22 12:26",
+    "participants": "纪佳欢 加央 次仁央金 扎西曲宗 单增旺姆 胥佳欣 时娇娇",
+    "screenshots": [
+      "1000650200.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1790051289942
   }
 ]
