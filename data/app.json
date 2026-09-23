@@ -397,5 +397,19 @@
     ],
     "status": "rejected",
     "createdAt": 1790130178599
+  },
+  {
+    "id": "1790134032605_5taw5h_2413054042",
+    "name": "次仁央金",
+    "packageName": "2413054042",
+    "versionName": "创新引领创业，创业带动就业。",
+    "publisher": "2026-09-23 11:25",
+    "participants": "时娇娇 纪佳欢  次仁央金  胥佳欣 扎西曲宗  单增旺姆 加央",
+    "screenshots": [
+      "1000047735.jpg",
+      "1000047713.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1790134036897
   }
 ]
