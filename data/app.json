@@ -480,5 +480,18 @@
     ],
     "status": "pending",
     "createdAt": 1790165607980
+  },
+  {
+    "id": "1790165777278_vafv2f_2413054049",
+    "name": "加央",
+    "packageName": "2413054049",
+    "versionName": "盛世恰逢青春时，青年自强谱新章",
+    "publisher": "2026-09-23 20:15",
+    "participants": "时娇娇  纪佳欢  次仁央金  扎西曲宗  加央 胥佳欣  单增旺姆",
+    "screenshots": [
+      "1000047758.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1790165779613
   }
 ]
