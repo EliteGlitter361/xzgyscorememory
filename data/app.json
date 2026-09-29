@@ -560,5 +560,18 @@
     ],
     "status": "approved",
     "createdAt": 1790224897710
+  },
+  {
+    "id": "1790663877985_ohb42t_2413054049",
+    "name": "加央",
+    "packageName": "2413054049",
+    "versionName": "经管毕业生岗位实习动员会",
+    "publisher": "2026-09-29 14:37",
+    "participants": "全班",
+    "screenshots": [
+      "1790663833824.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1790663881167
   }
 ]
