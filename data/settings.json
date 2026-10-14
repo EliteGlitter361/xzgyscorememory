@@ -7,5 +7,5 @@
   "fileUploadDeadlineEnabled": true,
   "maxSubmissionsPerStudent": 1,
   "uploadRequirementEnabled": true,
-  "uploadRequirementMessage": "1.论文要求4000字及以上，有论点有论据\n2.只提交一个文件，每人只允许提交一次\n3.在文档中填写自己的姓名学号\n3.当遇见系统缓慢卡顿时，请耐心等待。直至显示提交成功的提示。"
+  "uploadRequirementMessage": "1.论文要求4000字及以上，有论点有论据\n2.只提交一个文件，每人只允许提交一次\n3.在文档中填写自己的姓名学号\n4.文件名要带自己的姓名和学号\n5.当遇见系统缓慢卡顿时，请耐心等待。直至显示提交成功的提示。"
 }
