@@ -380,18 +380,5 @@
     ],
     "status": "rejected",
     "createdAt": 1791981406211
-  },
-  {
-    "id": "1791982639656_nde0ms_2413054041",
-    "name": "洛桑曲塔",
-    "packageName": "2413054041",
-    "versionName": "2026 书香西藏集体诵读大赛",
-    "publisher": "2026-10-14 20:55",
-    "participants": "旦木真，洛桑曲塔",
-    "screenshots": [
-      "mmexport1791982379249.jpg"
-    ],
-    "status": "approved",
-    "createdAt": 1791982641757
   }
 ]
