@@ -1,0 +1,182 @@
+{"device":"iPhone17,1","systemName":"iOS","BundleName":"ChaoXingStudy","phoneModel":"iPhone","BundleVersion":"7.0.1 202609161500","systemVersion":"26.3.1","localeIdentifier":"zh_CN ; 中文（中国）"}
+===================================================
+{"method":"[startListenEvent:] 第1212行","from":2,"isShowAiXing":3,"##log_record_time##":"2026-10-14 09:15:13.258","xbanView":"Null","selectedIndex":0,"needStartXueBan":"NO"}
+===================================================
+{"availableInputs":"MicrophoneBuiltIn","##log_record_time##":"2026-10-14 09:15:13.264"}
+===================================================
+{"inputs":"","##log_record_time##":"2026-10-14 09:15:13.265"}
+===================================================
+{"outputs":"BluetoothA2DPOutput","##log_record_time##":"2026-10-14 09:15:13.265"}
+===================================================
+{"##log_record_time##":"2026-10-14 09:15:13.266","optionsStr":""}
+===================================================
+{"floatVHidden":1,"fvisible":false,"method":"[showOnView:forceVisible:] 第814行","superview":"UIWindow","##log_record_time##":"2026-10-14 09:15:13.266","lastCenter":"(0.0, 0.0)"}
+===================================================
+{"xbanView":"noNull","forbid":-1,"method":"[forbidAiXingWith:] 第3073行","##log_record_time##":"2026-10-14 09:15:16.696","isShow":"NO"}
+===================================================
+{"Notification.name":"UIApplicationWillResignActiveNotification","##log_record_time##":"2026-10-14 09:15:59.602"}
+===================================================
+{"availableInputs":"MicrophoneBuiltIn","##log_record_time##":"2026-10-14 09:15:59.604"}
+===================================================
+{"inputs":"","##log_record_time##":"2026-10-14 09:15:59.605"}
+===================================================
+{"outputs":"BluetoothA2DPOutput","##log_record_time##":"2026-10-14 09:15:59.606"}
+===================================================
+{"##log_record_time##":"2026-10-14 09:15:59.609","optionsStr":""}
+===================================================
+{"Notification.name":"UIApplicationDidBecomeActiveNotification","##log_record_time##":"2026-10-14 09:31:11.768"}
+===================================================
+{"availableInputs":"MicrophoneBuiltIn","##log_record_time##":"2026-10-14 09:31:11.771"}
+===================================================
+{"inputs":"","##log_record_time##":"2026-10-14 09:31:11.772"}
+===================================================
+{"outputs":"BluetoothA2DPOutput","##log_record_time##":"2026-10-14 09:31:11.772"}
+===================================================
+{"##log_record_time##":"2026-10-14 09:31:11.774","optionsStr":""}
+===================================================
+{"availableInputs":"MicrophoneBuiltIn","##log_record_time##":"2026-10-14 09:31:13.884"}
+===================================================
+{"inputs":"","##log_record_time##":"2026-10-14 09:31:13.885"}
+===================================================
+{"outputs":"BluetoothA2DPOutput","##log_record_time##":"2026-10-14 09:31:13.886"}
+===================================================
+{"##log_record_time##":"2026-10-14 09:31:13.912","optionsStr":""}
+===================================================
+{"Notification.name":"UIApplicationWillResignActiveNotification","##log_record_time##":"2026-10-14 09:31:19.217"}
+===================================================
+{"availableInputs":"MicrophoneBuiltIn","##log_record_time##":"2026-10-14 09:31:19.218"}
+===================================================
+{"inputs":"","##log_record_time##":"2026-10-14 09:31:19.218"}
+===================================================
+{"outputs":"BluetoothA2DPOutput","##log_record_time##":"2026-10-14 09:31:19.219"}
+===================================================
+{"##log_record_time##":"2026-10-14 09:31:19.221","optionsStr":""}
+===================================================
+{"Notification.name":"UIApplicationDidBecomeActiveNotification","##log_record_time##":"2026-10-14 09:31:21.139"}
+===================================================
+{"availableInputs":"MicrophoneBuiltIn","##log_record_time##":"2026-10-14 09:31:21.140"}
+===================================================
+{"inputs":"","##log_record_time##":"2026-10-14 09:31:21.142"}
+===================================================
+{"outputs":"BluetoothA2DPOutput","##log_record_time##":"2026-10-14 09:31:21.143"}
+===================================================
+{"##log_record_time##":"2026-10-14 09:31:21.149","optionsStr":""}
+===================================================
+{"availableInputs":"MicrophoneBuiltIn","##log_record_time##":"2026-10-14 09:31:23.158"}
+===================================================
+{"inputs":"","##log_record_time##":"2026-10-14 09:31:23.160"}
+===================================================
+{"outputs":"BluetoothA2DPOutput","##log_record_time##":"2026-10-14 09:31:23.162"}
+===================================================
+{"##log_record_time##":"2026-10-14 09:31:23.164","optionsStr":""}
+===================================================
+{"Notification.name":"UIApplicationWillResignActiveNotification","##log_record_time##":"2026-10-14 09:31:33.801"}
+===================================================
+{"availableInputs":"MicrophoneBuiltIn","##log_record_time##":"2026-10-14 09:31:33.802"}
+===================================================
+{"inputs":"","##log_record_time##":"2026-10-14 09:31:33.804"}
+===================================================
+{"outputs":"BluetoothA2DPOutput","##log_record_time##":"2026-10-14 09:31:33.806"}
+===================================================
+{"##log_record_time##":"2026-10-14 09:31:33.809","optionsStr":""}
+===================================================
+{"Notification.name":"UIApplicationDidBecomeActiveNotification","##log_record_time##":"2026-10-14 09:31:36.013"}
+===================================================
+{"availableInputs":"MicrophoneBuiltIn","##log_record_time##":"2026-10-14 09:31:36.013"}
+===================================================
+{"inputs":"","##log_record_time##":"2026-10-14 09:31:36.014"}
+===================================================
+{"outputs":"BluetoothA2DPOutput","##log_record_time##":"2026-10-14 09:31:36.015"}
+===================================================
+{"##log_record_time##":"2026-10-14 09:31:36.060","optionsStr":""}
+===================================================
+{"Notification.name":"UIApplicationWillResignActiveNotification","##log_record_time##":"2026-10-14 09:31:37.326"}
+===================================================
+{"availableInputs":"MicrophoneBuiltIn","##log_record_time##":"2026-10-14 09:31:37.327"}
+===================================================
+{"inputs":"","##log_record_time##":"2026-10-14 09:31:37.329"}
+===================================================
+{"outputs":"BluetoothA2DPOutput","##log_record_time##":"2026-10-14 09:31:37.330"}
+===================================================
+{"##log_record_time##":"2026-10-14 09:31:37.332","optionsStr":""}
+===================================================
+{"availableInputs":"MicrophoneBuiltIn","##log_record_time##":"2026-10-14 09:31:38.159"}
+===================================================
+{"inputs":"","##log_record_time##":"2026-10-14 09:31:38.161"}
+===================================================
+{"outputs":"BluetoothA2DPOutput","##log_record_time##":"2026-10-14 09:31:38.162"}
+===================================================
+{"##log_record_time##":"2026-10-14 09:31:38.164","optionsStr":""}
+===================================================
+{"method":"[startListenEvent:] 第1212行","from":2,"isShowAiXing":3,"##log_record_time##":"2026-10-14 11:57:44.213","xbanView":"Null","selectedIndex":0,"needStartXueBan":"NO"}
+===================================================
+{"availableInputs":"MicrophoneBuiltIn","##log_record_time##":"2026-10-14 11:57:44.218"}
+===================================================
+{"inputs":"","##log_record_time##":"2026-10-14 11:57:44.218"}
+===================================================
+{"outputs":"BluetoothA2DPOutput","##log_record_time##":"2026-10-14 11:57:44.219"}
+===================================================
+{"##log_record_time##":"2026-10-14 11:57:44.219","optionsStr":""}
+===================================================
+{"floatVHidden":1,"fvisible":false,"method":"[showOnView:forceVisible:] 第814行","superview":"UIWindow","##log_record_time##":"2026-10-14 11:57:44.220","lastCenter":"(0.0, 0.0)"}
+===================================================
+{"xbanView":"noNull","forbid":-1,"method":"[forbidAiXingWith:] 第3073行","##log_record_time##":"2026-10-14 11:57:49.891","isShow":"NO"}
+===================================================
+{"Notification.name":"UIApplicationWillResignActiveNotification","##log_record_time##":"2026-10-14 11:58:11.368"}
+===================================================
+{"availableInputs":"MicrophoneBuiltIn","##log_record_time##":"2026-10-14 11:58:11.370"}
+===================================================
+{"inputs":"","##log_record_time##":"2026-10-14 11:58:11.371"}
+===================================================
+{"outputs":"BluetoothA2DPOutput","##log_record_time##":"2026-10-14 11:58:11.373"}
+===================================================
+{"##log_record_time##":"2026-10-14 11:58:11.375","optionsStr":""}
+===================================================
+{"method":"[startListenEvent:] 第1212行","from":2,"isShowAiXing":3,"##log_record_time##":"2026-10-14 18:38:34.113","xbanView":"Null","selectedIndex":0,"needStartXueBan":"NO"}
+===================================================
+{"availableInputs":"MicrophoneBuiltIn","##log_record_time##":"2026-10-14 18:38:34.118"}
+===================================================
+{"inputs":"","##log_record_time##":"2026-10-14 18:38:34.119"}
+===================================================
+{"outputs":"Speaker","##log_record_time##":"2026-10-14 18:38:34.119"}
+===================================================
+{"##log_record_time##":"2026-10-14 18:38:34.120","optionsStr":""}
+===================================================
+{"floatVHidden":1,"fvisible":false,"method":"[showOnView:forceVisible:] 第814行","superview":"UIWindow","##log_record_time##":"2026-10-14 18:38:34.120","lastCenter":"(0.0, 0.0)"}
+===================================================
+{"xbanView":"noNull","forbid":-1,"method":"[forbidAiXingWith:] 第3073行","##log_record_time##":"2026-10-14 18:38:37.527","isShow":"NO"}
+===================================================
+{"Notification.name":"UIApplicationWillResignActiveNotification","##log_record_time##":"2026-10-14 18:38:50.854"}
+===================================================
+{"availableInputs":"MicrophoneBuiltIn","##log_record_time##":"2026-10-14 18:38:50.855"}
+===================================================
+{"inputs":"","##log_record_time##":"2026-10-14 18:38:50.857"}
+===================================================
+{"outputs":"Speaker","##log_record_time##":"2026-10-14 18:38:50.859"}
+===================================================
+{"##log_record_time##":"2026-10-14 18:38:50.862","optionsStr":""}
+===================================================
+{"method":"[startListenEvent:] 第1212行","from":2,"isShowAiXing":3,"##log_record_time##":"2026-10-14 19:16:46.207","xbanView":"Null","selectedIndex":0,"needStartXueBan":"NO"}
+===================================================
+{"availableInputs":"MicrophoneBuiltIn","##log_record_time##":"2026-10-14 19:16:46.213"}
+===================================================
+{"inputs":"","##log_record_time##":"2026-10-14 19:16:46.214"}
+===================================================
+{"outputs":"BluetoothA2DPOutput","##log_record_time##":"2026-10-14 19:16:46.214"}
+===================================================
+{"##log_record_time##":"2026-10-14 19:16:46.215","optionsStr":""}
+===================================================
+{"floatVHidden":1,"fvisible":false,"method":"[showOnView:forceVisible:] 第814行","superview":"UIWindow","##log_record_time##":"2026-10-14 19:16:46.215","lastCenter":"(0.0, 0.0)"}
+===================================================
+{"xbanView":"noNull","forbid":-1,"method":"[forbidAiXingWith:] 第3073行","##log_record_time##":"2026-10-14 19:16:49.525","isShow":"NO"}
+===================================================
+{"Notification.name":"UIApplicationWillResignActiveNotification","##log_record_time##":"2026-10-14 19:17:05.208"}
+===================================================
+{"availableInputs":"MicrophoneBuiltIn","##log_record_time##":"2026-10-14 19:17:05.210"}
+===================================================
+{"inputs":"","##log_record_time##":"2026-10-14 19:17:05.211"}
+===================================================
+{"outputs":"BluetoothA2DPOutput","##log_record_time##":"2026-10-14 19:17:05.212"}
+===================================================
+{"##log_record_time##":"2026-10-14 19:17:05.214","optionsStr":""}
+===================================================
