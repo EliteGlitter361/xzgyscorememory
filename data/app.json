@@ -366,5 +366,19 @@
     ],
     "status": "approved",
     "createdAt": 1791980443398
+  },
+  {
+    "id": "1791981403129_y77mjl_2413054041",
+    "name": "洛桑曲塔",
+    "packageName": "2413054041",
+    "versionName": "宏志助航计划",
+    "publisher": "2026-10-14 20:35",
+    "participants": "旦木真，洛桑曲塔",
+    "screenshots": [
+      "IMG_20260922_205105.jpg",
+      "Screenshot_2026-09-22-20-49-18-83_e39d2c7de19156b0683cd93e8735f348.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1791981406211
   }
 ]
