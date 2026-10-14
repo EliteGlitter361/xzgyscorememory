@@ -353,5 +353,18 @@
     ],
     "status": "pending",
     "createdAt": 1791980371852
+  },
+  {
+    "id": "1791980441360_f2q8u8_2413054029",
+    "name": "纪佳欢",
+    "packageName": "2413054029",
+    "versionName": "创新创业：蓝海寻机，扬帆共赢",
+    "publisher": "2026-10-14 20:20",
+    "participants": "纪佳欢  加央  胥佳欣  时娇娇  次仁央金  扎西曲宗  单增旺姆  陈弈轩",
+    "screenshots": [
+      "1791980437806.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1791980443398
   }
 ]
