@@ -589,5 +589,18 @@
     ],
     "status": "pending",
     "createdAt": 1792079526528
+  },
+  {
+    "id": "1792079617859_f4qx2d_2413054025",
+    "name": "余美静",
+    "packageName": "2413054025",
+    "versionName": "从想法到落地",
+    "publisher": "2026-10-14 11:52",
+    "participants": "孙立涛 刘子宇 杨恩 余美静",
+    "screenshots": [
+      "mmexport1792035438013.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1792079619516
   }
 ]
