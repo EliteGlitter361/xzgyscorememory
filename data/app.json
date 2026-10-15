@@ -485,5 +485,18 @@
     ],
     "status": "pending",
     "createdAt": 1792079147522
+  },
+  {
+    "id": "1792079192807_1n5yf2_2413054007",
+    "name": "杨恩",
+    "packageName": "2413054007",
+    "versionName": "高原优选小店",
+    "publisher": "2026-10-14 11:45",
+    "participants": "孙立涛 刘子宇 杨恩 余美静",
+    "screenshots": [
+      "mmexport1792035446268.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1792079194386
   }
 ]
