@@ -380,5 +380,18 @@
     ],
     "status": "rejected",
     "createdAt": 1791981406211
+  },
+  {
+    "id": "1792027591055_txh4jv_2413054018",
+    "name": "格列尼玛",
+    "packageName": "2413054018",
+    "versionName": "非遗文化数字化传播",
+    "publisher": "2026-10-15 09:22",
+    "participants": "余美静，卓吉，布姆吉，岗拉美多，格列尼玛",
+    "screenshots": [
+      "mmexport1791642724367.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1792027593704
   }
 ]
