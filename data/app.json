@@ -368,5 +368,18 @@
     ],
     "status": "approved",
     "createdAt": 1792064382755
+  },
+  {
+    "id": "1792071131897_tom9wc_2413054026",
+    "name": "刘子宇",
+    "packageName": "2413054026",
+    "versionName": "征兵活动",
+    "publisher": "2026-10-15 21:31",
+    "participants": "",
+    "screenshots": [
+      "Screenshot_2026-10-15-21-31-34-332_com.tencent.mm.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1792071133597
   }
 ]
