@@ -484,5 +484,18 @@
     ],
     "status": "pending",
     "createdAt": 1792040845478
+  },
+  {
+    "id": "1792063714106_76ei54_2413054042",
+    "name": "次仁央金",
+    "packageName": "2413054042",
+    "versionName": "读书分享会",
+    "publisher": "2026-10-15 19:27",
+    "participants": "纪佳欢  加央  次仁央金  单增旺姆  扎西曲宗  胥佳欣  时娇娇",
+    "screenshots": [
+      "1792063706258.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1792063716281
   }
 ]
