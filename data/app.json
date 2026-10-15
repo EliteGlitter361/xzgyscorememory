@@ -471,5 +471,18 @@
     ],
     "status": "pending",
     "createdAt": 1792036117668
+  },
+  {
+    "id": "1792040843417_xwwg5w_2413054025",
+    "name": "余美静",
+    "packageName": "2413054025",
+    "versionName": "同体意识主题校级演讲大赛 优秀奖",
+    "publisher": "2026-10-15 13:05",
+    "participants": "余美静",
+    "screenshots": [
+      "mmexport1792040832775.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1792040845478
   }
 ]
