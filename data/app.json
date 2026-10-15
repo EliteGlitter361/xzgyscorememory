@@ -563,5 +563,18 @@
     ],
     "status": "pending",
     "createdAt": 1792079433611
+  },
+  {
+    "id": "1792079477979_8i71vq_2413054025",
+    "name": "余美静",
+    "packageName": "2413054025",
+    "versionName": "创意设计与创业实践",
+    "publisher": "2026-10-14 11:50",
+    "participants": "孙立涛 刘子宇 杨恩 余美静",
+    "screenshots": [
+      "mmexport1792035440609.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1792079479639
   }
 ]
