@@ -602,5 +602,18 @@
     ],
     "status": "pending",
     "createdAt": 1792079619516
+  },
+  {
+    "id": "1792079661852_khzc48_2413054025",
+    "name": "余美静",
+    "packageName": "2413054025",
+    "versionName": "青年创业微计划",
+    "publisher": "2026-10-14 11:53",
+    "participants": "孙立涛 刘子宇 杨恩 余美静",
+    "screenshots": [
+      "mmexport1792035436912.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1792079663409
   }
 ]
