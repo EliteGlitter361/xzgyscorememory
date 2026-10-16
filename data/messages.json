@@ -88,5 +88,15 @@
     "appId": "1792078861968_usehyi_2413054008",
     "read": false,
     "createdAt": 1792153072078
+  },
+  {
+    "id": "msg_1792153653354_lic3b1",
+    "studentId": "2413054008",
+    "title": "学分申请已通过",
+    "content": "您的活动「高原青年创新创业计划」学分申请已通过审核。",
+    "type": "approved",
+    "appId": "1792078901405_8v3vah_2413054008",
+    "read": false,
+    "createdAt": 1792153653354
   }
 ]
