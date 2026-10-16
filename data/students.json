@@ -140,7 +140,8 @@
   {
     "name": "余美静",
     "studentId": "2413054025",
-    "banned": false
+    "banned": false,
+    "password": "ymj123"
   },
   {
     "name": "刘子宇",
