@@ -116,7 +116,8 @@
   {
     "name": "布姆吉",
     "studentId": "2413054021",
-    "banned": false
+    "banned": false,
+    "password": "bmj123"
   },
   {
     "name": "美拉措姆",
