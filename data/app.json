@@ -476,8 +476,10 @@
     "screenshots": [
       "mmexport1792035448152.jpg"
     ],
-    "status": "pending",
-    "createdAt": 1792079065738
+    "status": "needs_fix",
+    "createdAt": 1792079065738,
+    "reviewedAt": 1792164261237,
+    "rejectReason": "如果是创新创业的，标题写清楚，图片可以不用改"
   },
   {
     "id": "1792079145918_tth3wd_2413054007",
