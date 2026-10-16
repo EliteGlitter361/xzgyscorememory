@@ -58,5 +58,15 @@
     "appId": "1792078764463_wxe3rd_2413054008",
     "read": false,
     "createdAt": 1792152906997
+  },
+  {
+    "id": "msg_1792152926536_zhlogs",
+    "studentId": "2413054008",
+    "title": "学分申请已通过",
+    "content": "您的活动「藏地青年创业项目路演」学分申请已通过审核。",
+    "type": "approved",
+    "appId": "1792078807061_2ma4wn_2413054008",
+    "read": false,
+    "createdAt": 1792152926536
   }
 ]
