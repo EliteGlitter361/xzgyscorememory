@@ -136,7 +136,7 @@
     "content": "您的活动「j」学分申请需要修改。\n原因：3",
     "type": "needs_fix",
     "appId": "1792164858974_merzxh_system",
-    "read": false,
+    "read": true,
     "createdAt": 1792164947204
   }
 ]
