@@ -20,7 +20,8 @@
   {
     "name": "李小凤",
     "studentId": "2413054005",
-    "banned": false
+    "banned": false,
+    "password": "lxf123"
   },
   {
     "name": "郭乙锦",
