@@ -298,5 +298,11 @@
     "studentId": "2313054025",
     "banned": false,
     "password": "crzd123"
+  },
+  {
+    "name": "system",
+    "studentId": "system",
+    "password": "system",
+    "banned": false
   }
 ]
