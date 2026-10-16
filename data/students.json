@@ -38,7 +38,8 @@
   {
     "name": "孙立涛",
     "studentId": "2413054008",
-    "banned": false
+    "banned": false,
+    "password": "slt123"
   },
   {
     "name": "尼玛欧珠",
