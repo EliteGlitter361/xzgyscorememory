@@ -284,7 +284,8 @@
   {
     "name": "何思帆",
     "studentId": "2213054029",
-    "banned": false
+    "banned": false,
+    "password": "hsf123"
   },
   {
     "name": "孙嘉伶",
