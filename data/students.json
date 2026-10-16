@@ -134,7 +134,8 @@
   {
     "name": "卓吉",
     "studentId": "2413054024",
-    "banned": false
+    "banned": false,
+    "password": "zj123"
   },
   {
     "name": "余美静",
