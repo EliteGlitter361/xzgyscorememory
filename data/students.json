@@ -110,7 +110,8 @@
   {
     "name": "岗拉美多",
     "studentId": "2413054020",
-    "banned": false
+    "banned": false,
+    "password": "glmd123"
   },
   {
     "name": "布姆吉",
