@@ -194,8 +194,7 @@
   {
     "name": "次仁顿珠",
     "studentId": "2413054037",
-    "banned": false,
-    "password": "crdz123"
+    "banned": false
   },
   {
     "name": "洛追永沙",
@@ -205,7 +204,8 @@
   {
     "name": "美朵拉珍",
     "studentId": "2413054039",
-    "banned": false
+    "banned": false,
+    "password": "mdlz123"
   },
   {
     "name": "次仁旺加",
