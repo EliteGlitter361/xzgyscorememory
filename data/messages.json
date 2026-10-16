@@ -36,7 +36,7 @@
     "content": "wr",
     "type": "system",
     "appId": null,
-    "read": false,
+    "read": true,
     "createdAt": 1792138782690
   }
 ]
