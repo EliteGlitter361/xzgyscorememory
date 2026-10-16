@@ -752,5 +752,18 @@
     ],
     "status": "pending",
     "createdAt": 1792153860773
+  },
+  {
+    "id": "1792159093210_w3bxon_2313054025",
+    "name": "次仁占多",
+    "packageName": "2313054025",
+    "versionName": "创新创业基础与实战指南",
+    "publisher": "2026-10-16 21:50",
+    "participants": "洛桑曲塔 旦木真 次仁旺加 四朗洛珠 扎西曲达 益西多吉   \r\n洛追永沙 次仁占多 尼玛欧珠 普布顿珠",
+    "screenshots": [
+      "IMG_1330.jpeg"
+    ],
+    "status": "pending",
+    "createdAt": 1792159095615
   }
 ]
