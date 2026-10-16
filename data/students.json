@@ -182,7 +182,8 @@
   {
     "name": "单增旺姆",
     "studentId": "2413054035",
-    "banned": false
+    "banned": false,
+    "password": "dzwm123"
   },
   {
     "name": "扎西曲达",
