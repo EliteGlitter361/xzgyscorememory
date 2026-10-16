@@ -218,7 +218,8 @@
   {
     "name": "洛桑曲塔",
     "studentId": "2413054041",
-    "banned": false
+    "banned": false,
+    "password": "lsqt123"
   },
   {
     "name": "次仁央金",
