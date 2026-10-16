@@ -227,7 +227,8 @@
   {
     "name": "陈弈轩",
     "studentId": "2413054050",
-    "banned": false
+    "banned": false,
+    "password": "00000000"
   },
   {
     "name": "郑意林",
