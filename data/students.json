@@ -254,7 +254,8 @@
   {
     "name": "永忠旺姆",
     "studentId": "2413054047",
-    "banned": false
+    "banned": false,
+    "password": "yzwm123"
   },
   {
     "name": "其美拉宗",
