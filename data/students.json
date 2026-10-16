@@ -98,7 +98,8 @@
   {
     "name": "格列尼玛",
     "studentId": "2413054018",
-    "banned": false
+    "banned": false,
+    "password": "glnm123"
   },
   {
     "name": "旦增旺珍",
