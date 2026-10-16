@@ -176,7 +176,8 @@
   {
     "name": "王胤",
     "studentId": "2413054033",
-    "banned": false
+    "banned": false,
+    "password": "wy123"
   },
   {
     "name": "单增旺姆",
