@@ -18,5 +18,15 @@
     "appId": null,
     "read": true,
     "createdAt": 1792138232684
+  },
+  {
+    "id": "msg_1792138282885_mfd23j",
+    "studentId": "2413054050",
+    "title": "456",
+    "content": "456",
+    "type": "system",
+    "appId": null,
+    "read": false,
+    "createdAt": 1792138282885
   }
 ]
