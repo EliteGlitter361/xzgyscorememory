@@ -50,7 +50,8 @@
   {
     "name": "旦木真",
     "studentId": "2413054010",
-    "banned": false
+    "banned": false,
+    "password": "dmz123"
   },
   {
     "name": "旦增曲朗",
