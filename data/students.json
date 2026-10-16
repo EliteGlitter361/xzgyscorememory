@@ -164,7 +164,8 @@
   {
     "name": "杨近平",
     "studentId": "2413054030",
-    "banned": false
+    "banned": false,
+    "password": "yjp123"
   },
   {
     "name": "胥佳欣",
