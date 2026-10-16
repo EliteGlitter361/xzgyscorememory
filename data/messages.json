@@ -98,5 +98,15 @@
     "appId": "1792078901405_8v3vah_2413054008",
     "read": false,
     "createdAt": 1792153653354
+  },
+  {
+    "id": "msg_1792153683839_jtz5r8",
+    "studentId": "2413054008",
+    "title": "学分申请已通过",
+    "content": "您的活动「创业从一个想法开始」学分申请已通过审核。",
+    "type": "approved",
+    "appId": "1792078967467_ilrb2w_2413054008",
+    "read": false,
+    "createdAt": 1792153683839
   }
 ]
