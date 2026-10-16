@@ -128,5 +128,15 @@
     "appId": "1792079063123_1w6e7j_2413054007",
     "read": false,
     "createdAt": 1792164264638
+  },
+  {
+    "id": "msg_1792164947204_t0p85y",
+    "studentId": "system",
+    "title": "学分申请需要修改",
+    "content": "您的活动「j」学分申请需要修改。\n原因：3",
+    "type": "needs_fix",
+    "appId": "1792164858974_merzxh_system",
+    "read": false,
+    "createdAt": 1792164947204
   }
 ]
