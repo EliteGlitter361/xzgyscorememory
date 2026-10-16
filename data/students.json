@@ -152,7 +152,8 @@
   {
     "name": "王亮",
     "studentId": "2413054027",
-    "banned": false
+    "banned": false,
+    "password": "wl123"
   },
   {
     "name": "纪佳欢",
