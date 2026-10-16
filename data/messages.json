@@ -48,5 +48,15 @@
     "appId": "1792078764463_wxe3rd_2413054008",
     "read": false,
     "createdAt": 1792152897409
+  },
+  {
+    "id": "msg_1792152906997_lzhiup",
+    "studentId": "2413054008",
+    "title": "学分申请已通过",
+    "content": "您的活动「创新创业实践项目」学分申请已通过审核。",
+    "type": "approved",
+    "appId": "1792078764463_wxe3rd_2413054008",
+    "read": false,
+    "createdAt": 1792152906997
   }
 ]
