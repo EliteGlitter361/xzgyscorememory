@@ -146,7 +146,8 @@
   {
     "name": "刘子宇",
     "studentId": "2413054026",
-    "banned": false
+    "banned": false,
+    "password": "lzy123"
   },
   {
     "name": "王亮",
