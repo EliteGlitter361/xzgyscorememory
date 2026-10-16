@@ -188,7 +188,8 @@
   {
     "name": "扎西曲达",
     "studentId": "2413054036",
-    "banned": false
+    "banned": false,
+    "password": "zxqd123"
   },
   {
     "name": "次仁顿珠",
