@@ -32,7 +32,8 @@
   {
     "name": "杨恩",
     "studentId": "2413054007",
-    "banned": false
+    "banned": false,
+    "password": "ye123"
   },
   {
     "name": "孙立涛",
