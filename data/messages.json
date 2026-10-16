@@ -8,5 +8,15 @@
     "appId": null,
     "read": true,
     "createdAt": 1792137638566
+  },
+  {
+    "id": "msg_1792138232684_z8uc3p",
+    "studentId": "2413054050",
+    "title": "123",
+    "content": "123",
+    "type": "system",
+    "appId": null,
+    "read": false,
+    "createdAt": 1792138232684
   }
 ]
