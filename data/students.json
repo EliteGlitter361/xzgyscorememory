@@ -158,7 +158,8 @@
   {
     "name": "纪佳欢",
     "studentId": "2413054029",
-    "banned": false
+    "banned": false,
+    "password": "jjh123"
   },
   {
     "name": "杨近平",
