@@ -92,7 +92,8 @@
   {
     "name": "斯塔次旺",
     "studentId": "2413054017",
-    "banned": false
+    "banned": false,
+    "password": "stcw123"
   },
   {
     "name": "格列尼玛",
