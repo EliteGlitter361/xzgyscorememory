@@ -266,7 +266,8 @@
   {
     "name": "加央",
     "studentId": "2413054049",
-    "banned": false
+    "banned": false,
+    "password": "jy123"
   },
   {
     "name": "陈弈轩",
