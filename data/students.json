@@ -290,7 +290,8 @@
   {
     "name": "孙嘉伶",
     "studentId": "2413027001",
-    "banned": false
+    "banned": false,
+    "password": "sjl123"
   },
   {
     "name": "次仁占多",
