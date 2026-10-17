@@ -631,8 +631,9 @@
     "screenshots": [
       "mmexport1792035436912.jpg"
     ],
-    "status": "pending",
-    "createdAt": 1792079663409
+    "status": "approved",
+    "createdAt": 1792079663409,
+    "reviewedAt": 1792238517336
   },
   {
     "id": "1792114135258_wivylz_2413054018",
