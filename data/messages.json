@@ -888,5 +888,15 @@
     "appId": "1792159093210_w3bxon_2313054025",
     "read": false,
     "createdAt": 1792238934947
+  },
+  {
+    "id": "msg_1792239834010_pgoive",
+    "studentId": "2413054009",
+    "title": "学分申请需要修改",
+    "content": "您的活动「大学生创新创业」学分申请需要修改。\n原因：具体的主题名称",
+    "type": "needs_fix",
+    "appId": "1792153760410_ui4rfo_2413054009",
+    "read": false,
+    "createdAt": 1792239834010
   }
 ]
