@@ -765,8 +765,10 @@
     "screenshots": [
       "8829.jpeg"
     ],
-    "status": "pending",
-    "createdAt": 1792153860773
+    "status": "needs_fix",
+    "createdAt": 1792153860773,
+    "reviewedAt": 1792238918200,
+    "rejectReason": "主题不明确"
   },
   {
     "id": "1792159093210_w3bxon_2313054025",
