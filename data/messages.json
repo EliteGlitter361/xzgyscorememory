@@ -778,5 +778,15 @@
     "appId": "1792079661852_khzc48_2413054025",
     "read": false,
     "createdAt": 1792238519485
+  },
+  {
+    "id": "msg_1792238530700_g0obrn",
+    "studentId": "2413054018",
+    "title": "学分申请已通过",
+    "content": "您的活动「打扫卫生」学分申请已通过审核。",
+    "type": "approved",
+    "appId": "1792114135258_wivylz_2413054018",
+    "read": false,
+    "createdAt": 1792238530700
   }
 ]
