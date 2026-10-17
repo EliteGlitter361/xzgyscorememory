@@ -738,5 +738,15 @@
     "appId": "1792079432014_tzwfgp_2413054026",
     "read": false,
     "createdAt": 1792238397623
+  },
+  {
+    "id": "msg_1792238438174_lfaypx",
+    "studentId": "2413054025",
+    "title": "学分申请已通过",
+    "content": "您的活动「创意设计与创业实践」学分申请已通过审核。",
+    "type": "approved",
+    "appId": "1792079477979_8i71vq_2413054025",
+    "read": false,
+    "createdAt": 1792238438174
   }
 ]
