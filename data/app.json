@@ -778,7 +778,9 @@
     "screenshots": [
       "1000201029.jpg"
     ],
-    "status": "pending",
-    "createdAt": 1792236176701
+    "status": "needs_fix",
+    "createdAt": 1792236176701,
+    "reviewedAt": 1792236207141,
+    "rejectReason": "123"
   }
 ]
