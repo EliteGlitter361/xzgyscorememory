@@ -698,5 +698,15 @@
     "appId": "1792079243340_8ne611_2413054007",
     "read": false,
     "createdAt": 1792238346318
+  },
+  {
+    "id": "msg_1792238360060_cmhtlq",
+    "studentId": "2413054026",
+    "title": "学分申请已通过",
+    "content": "您的活动「藏礼文创」学分申请已通过审核。",
+    "type": "approved",
+    "appId": "1792079292405_ipoodl_2413054026",
+    "read": false,
+    "createdAt": 1792238360060
   }
 ]
