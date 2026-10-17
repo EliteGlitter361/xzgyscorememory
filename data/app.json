@@ -795,7 +795,9 @@
     "screenshots": [
       "mmexport1792152924630.jpg"
     ],
-    "status": "pending",
-    "createdAt": 1792239760998
+    "status": "needs_fix",
+    "createdAt": 1792239760998,
+    "reviewedAt": 1792239865239,
+    "rejectReason": "图片与主题名不符合"
   }
 ]
