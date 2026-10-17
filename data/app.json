@@ -780,7 +780,8 @@
     "screenshots": [
       "IMG_1330.jpeg"
     ],
-    "status": "pending",
-    "createdAt": 1792159095615
+    "status": "approved",
+    "createdAt": 1792159095615,
+    "reviewedAt": 1792238933330
   }
 ]
