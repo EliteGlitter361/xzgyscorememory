@@ -705,8 +705,10 @@
     "screenshots": [
       "mmexport1792152918488.jpg"
     ],
-    "status": "pending",
-    "createdAt": 1792153649475
+    "status": "needs_fix",
+    "createdAt": 1792153649475,
+    "reviewedAt": 1792238717378,
+    "rejectReason": "图片没有突出主题"
   },
   {
     "id": "1792153670742_2sezt8_2413054017",
