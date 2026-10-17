@@ -720,8 +720,10 @@
     "screenshots": [
       "mmexport1792152991649.jpg"
     ],
-    "status": "pending",
-    "createdAt": 1792153672677
+    "status": "needs_fix",
+    "createdAt": 1792153672677,
+    "reviewedAt": 1792238777589,
+    "rejectReason": "图片与另一活动一致"
   },
   {
     "id": "1792153688149_ji53wf_2413054036",
