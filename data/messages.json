@@ -708,5 +708,15 @@
     "appId": "1792079292405_ipoodl_2413054026",
     "read": false,
     "createdAt": 1792238360060
+  },
+  {
+    "id": "msg_1792238369493_plpxey",
+    "studentId": "2413054026",
+    "title": "学分申请已通过",
+    "content": "您的活动「科技赋能创业」学分申请已通过审核。",
+    "type": "approved",
+    "appId": "1792079339056_k7qj1t_2413054026",
+    "read": false,
+    "createdAt": 1792238369493
   }
 ]
