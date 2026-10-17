@@ -138,5 +138,15 @@
     "appId": "1792164858974_merzxh_system",
     "read": true,
     "createdAt": 1792164947204
+  },
+  {
+    "id": "msg_1792231807210_vkjn6c",
+    "studentId": "system",
+    "title": "qwe",
+    "content": "qwe",
+    "type": "system",
+    "appId": null,
+    "read": false,
+    "createdAt": 1792231807210
   }
 ]
