@@ -674,8 +674,10 @@
     "screenshots": [
       "mmexport1792152991649.jpg"
     ],
-    "status": "pending",
-    "createdAt": 1792153358314
+    "status": "needs_fix",
+    "createdAt": 1792153358314,
+    "reviewedAt": 1792238619839,
+    "rejectReason": "图片没有突出主题"
   },
   {
     "id": "1792153589572_o2ulkp_2413054041",
