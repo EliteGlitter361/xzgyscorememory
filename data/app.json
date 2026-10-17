@@ -750,10 +750,10 @@
     "screenshots": [
       "3371.jpeg"
     ],
-    "status": "pending",
+    "status": "needs_fix",
     "createdAt": 1792153762469,
-    "reviewedAt": 1792238891560,
-    "rejectReason": null,
+    "reviewedAt": 1792239832024,
+    "rejectReason": "具体的主题名称",
     "updatedAt": 1792239378831
   },
   {
