@@ -146,7 +146,7 @@
     "content": "qwe",
     "type": "system",
     "appId": null,
-    "read": false,
+    "read": true,
     "createdAt": 1792231807210
   }
 ]
