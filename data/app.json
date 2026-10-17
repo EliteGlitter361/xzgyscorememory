@@ -561,8 +561,9 @@
     "screenshots": [
       "mmexport1792035442658.jpg"
     ],
-    "status": "pending",
-    "createdAt": 1792079389596
+    "status": "approved",
+    "createdAt": 1792079389596,
+    "reviewedAt": 1792238373889
   },
   {
     "id": "1792079432014_tzwfgp_2413054026",
