@@ -158,5 +158,15 @@
     "appId": "1792236174375_mqfcnx_system",
     "read": true,
     "createdAt": 1792236208870
+  },
+  {
+    "id": "msg_1792238033978_726wfq",
+    "studentId": "2413054001",
+    "title": "系统已经完成升级",
+    "content": "学分管理系统已经升级至2.0.0 Beta 3",
+    "type": "system",
+    "appId": null,
+    "read": false,
+    "createdAt": 1792238033978
   }
 ]
