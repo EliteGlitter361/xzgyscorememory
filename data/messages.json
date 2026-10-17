@@ -878,5 +878,15 @@
     "appId": "1792153858351_5fng0j_2413054012",
     "read": false,
     "createdAt": 1792238919863
+  },
+  {
+    "id": "msg_1792238934947_gi2sdh",
+    "studentId": "2313054025",
+    "title": "学分申请已通过",
+    "content": "您的活动「创新创业基础与实战指南」学分申请已通过审核。",
+    "type": "approved",
+    "appId": "1792159093210_w3bxon_2313054025",
+    "read": false,
+    "createdAt": 1792238934947
   }
 ]
