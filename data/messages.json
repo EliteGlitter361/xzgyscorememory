@@ -148,5 +148,15 @@
     "appId": null,
     "read": true,
     "createdAt": 1792231807210
+  },
+  {
+    "id": "msg_1792236208870_16pf9h",
+    "studentId": "system",
+    "title": "学分申请需要修改",
+    "content": "您的活动「q」学分申请需要修改。\n原因：123",
+    "type": "needs_fix",
+    "appId": "1792236174375_mqfcnx_system",
+    "read": false,
+    "createdAt": 1792236208870
   }
 ]
