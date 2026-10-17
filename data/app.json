@@ -767,20 +767,5 @@
     ],
     "status": "pending",
     "createdAt": 1792159095615
-  },
-  {
-    "id": "1792164858974_merzxh_system",
-    "name": "system",
-    "packageName": "system",
-    "versionName": "j",
-    "publisher": "2026-10-16 23:34",
-    "participants": "j",
-    "screenshots": [
-      "1000200922.jpg"
-    ],
-    "status": "needs_fix",
-    "createdAt": 1792164860744,
-    "reviewedAt": 1792164904618,
-    "rejectReason": "3"
   }
 ]
