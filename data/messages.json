@@ -156,7 +156,7 @@
     "content": "您的活动「q」学分申请需要修改。\n原因：123",
     "type": "needs_fix",
     "appId": "1792236174375_mqfcnx_system",
-    "read": false,
+    "read": true,
     "createdAt": 1792236208870
   }
 ]
