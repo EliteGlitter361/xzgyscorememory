@@ -638,5 +638,15 @@
     "appId": null,
     "read": false,
     "createdAt": 1792238138637
+  },
+  {
+    "id": "msg_1792238140716_6ysk1o",
+    "studentId": "2413027001",
+    "title": "系统已经完成升级",
+    "content": "学分管理系统已经升级至2.0.0 Beta 3",
+    "type": "system",
+    "appId": null,
+    "read": false,
+    "createdAt": 1792238140716
   }
 ]
