@@ -750,8 +750,10 @@
     "screenshots": [
       "3371.jpeg"
     ],
-    "status": "pending",
-    "createdAt": 1792153762469
+    "status": "needs_fix",
+    "createdAt": 1792153762469,
+    "reviewedAt": 1792238891560,
+    "rejectReason": "主题不明确"
   },
   {
     "id": "1792153858351_5fng0j_2413054012",
