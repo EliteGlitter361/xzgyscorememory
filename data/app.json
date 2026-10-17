@@ -603,8 +603,9 @@
     "screenshots": [
       "mmexport1792035439472.jpg"
     ],
-    "status": "pending",
-    "createdAt": 1792079526528
+    "status": "approved",
+    "createdAt": 1792079526528,
+    "reviewedAt": 1792238493213
   },
   {
     "id": "1792079617859_f4qx2d_2413054025",
