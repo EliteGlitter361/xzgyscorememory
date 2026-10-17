@@ -784,5 +784,18 @@
     "status": "approved",
     "createdAt": 1792159095615,
     "reviewedAt": 1792238933330
+  },
+  {
+    "id": "1792239758416_7wiejb_2413054041",
+    "name": "洛桑曲塔",
+    "packageName": "2413054041",
+    "versionName": "创新创业从想法到价值创造",
+    "publisher": "2026-10-17 20:17",
+    "participants": "旦木真，次仁旺加，四郎洛珠，斯达次旺，普布顿珠，扎西曲达，洛追永沙，次仁石达，旦增曲郎，次仁占多，洛桑曲塔，永忠旺姆，益西多吉，扎西旺堆",
+    "screenshots": [
+      "mmexport1792152924630.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1792239760998
   }
 ]
