@@ -519,8 +519,9 @@
     "screenshots": [
       "mmexport1792035445223.jpg"
     ],
-    "status": "pending",
-    "createdAt": 1792079245882
+    "status": "approved",
+    "createdAt": 1792079245882,
+    "reviewedAt": 1792238344083
   },
   {
     "id": "1792079292405_ipoodl_2413054026",
