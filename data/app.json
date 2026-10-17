@@ -767,20 +767,5 @@
     ],
     "status": "pending",
     "createdAt": 1792159095615
-  },
-  {
-    "id": "1792236174375_mqfcnx_system",
-    "name": "system",
-    "packageName": "system",
-    "versionName": "q",
-    "publisher": "2026-10-17 19:22",
-    "participants": "q",
-    "screenshots": [
-      "1000201029.jpg"
-    ],
-    "status": "needs_fix",
-    "createdAt": 1792236176701,
-    "reviewedAt": 1792236207141,
-    "rejectReason": "123"
   }
 ]
