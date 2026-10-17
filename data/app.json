@@ -690,8 +690,10 @@
       "IMG_20261016_201544.jpg",
       "mmexport1792152924630.jpg"
     ],
-    "status": "pending",
-    "createdAt": 1792153592908
+    "status": "needs_fix",
+    "createdAt": 1792153592908,
+    "reviewedAt": 1792238687105,
+    "rejectReason": "两张图片不属于同一份ppt"
   },
   {
     "id": "1792153647178_cttepu_2413054040",
