@@ -918,5 +918,15 @@
     "appId": "1792324237333_xn47pq_system",
     "read": false,
     "createdAt": 1792324298465
+  },
+  {
+    "id": "msg_1792324566787_0205d1",
+    "studentId": "2413054031",
+    "title": "测试内容",
+    "content": "测试消息123",
+    "type": "system",
+    "appId": null,
+    "read": false,
+    "createdAt": 1792324566787
   }
 ]
