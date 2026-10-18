@@ -926,7 +926,7 @@
     "content": "测试消息123",
     "type": "system",
     "appId": null,
-    "read": false,
+    "read": true,
     "createdAt": 1792324566787
   }
 ]
