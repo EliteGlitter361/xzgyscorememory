@@ -810,7 +810,8 @@
     "screenshots": [
       "1000200922.jpg"
     ],
-    "status": "pending",
-    "createdAt": 1792324238820
+    "status": "approved",
+    "createdAt": 1792324238820,
+    "reviewedAt": 1792324296548
   }
 ]
