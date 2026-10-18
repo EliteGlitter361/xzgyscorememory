@@ -908,5 +908,15 @@
     "appId": "1792239758416_7wiejb_2413054041",
     "read": true,
     "createdAt": 1792239866797
+  },
+  {
+    "id": "msg_1792324298465_la54uy",
+    "studentId": "system",
+    "title": "学分申请已通过",
+    "content": "您的活动「创新创业大赛（区赛）银奖」学分申请已通过审核。",
+    "type": "approved",
+    "appId": "1792324237333_xn47pq_system",
+    "read": false,
+    "createdAt": 1792324298465
   }
 ]
