@@ -799,5 +799,18 @@
     "createdAt": 1792239760998,
     "reviewedAt": 1792239865239,
     "rejectReason": "图片与主题名不符合"
+  },
+  {
+    "id": "1792324237333_xn47pq_system",
+    "name": "system",
+    "packageName": "system",
+    "versionName": "创新创业大赛（区赛）银奖",
+    "publisher": "2026-10-18 19:49",
+    "participants": "王亮，陈弈轩，加央，杨森淼",
+    "screenshots": [
+      "1000200922.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1792324238820
   }
 ]
