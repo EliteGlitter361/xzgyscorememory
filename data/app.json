@@ -854,7 +854,8 @@
       "8829.jpeg",
       "IMG_0167.jpeg"
     ],
-    "status": "pending",
-    "createdAt": 1792387213995
+    "status": "approved",
+    "createdAt": 1792387213995,
+    "reviewedAt": 1792388338512
   }
 ]
