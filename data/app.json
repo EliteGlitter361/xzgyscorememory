@@ -826,5 +826,18 @@
     ],
     "status": "pending",
     "createdAt": 1792382203706
+  },
+  {
+    "id": "1792382507863_f4wu7f_system",
+    "name": "system",
+    "packageName": "system",
+    "versionName": "创新创业校赛金奖",
+    "publisher": "2026-10-19 12:00",
+    "participants": "王亮，杨森淼，陈弈轩，加央",
+    "screenshots": [
+      "1000201839.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1792382509880
   }
 ]
