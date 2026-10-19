@@ -958,5 +958,15 @@
     "appId": "1792387209771_a430cu_2413054012",
     "read": false,
     "createdAt": 1792388345552
+  },
+  {
+    "id": "msg_1792409113135_2lv80t",
+    "studentId": "2413054004",
+    "title": "肘娇娇NB",
+    "content": "nb",
+    "type": "system",
+    "appId": null,
+    "read": false,
+    "createdAt": 1792409113135
   }
 ]
