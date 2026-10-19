@@ -266,7 +266,7 @@
     "content": "学分管理系统已经升级至2.0.0 Beta 3",
     "type": "system",
     "appId": null,
-    "read": false,
+    "read": true,
     "createdAt": 1792238056404
   },
   {
