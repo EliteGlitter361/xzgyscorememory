@@ -968,5 +968,15 @@
     "appId": null,
     "read": true,
     "createdAt": 1792409113135
+  },
+  {
+    "id": "msg_1792413885940_b8mxdb",
+    "studentId": "2413054042",
+    "title": "123",
+    "content": "123",
+    "type": "system",
+    "appId": null,
+    "read": false,
+    "createdAt": 1792413885940
   }
 ]
