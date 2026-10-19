@@ -966,7 +966,7 @@
     "content": "nb",
     "type": "system",
     "appId": null,
-    "read": false,
+    "read": true,
     "createdAt": 1792409113135
   }
 ]
