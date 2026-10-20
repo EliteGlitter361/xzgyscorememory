@@ -978,5 +978,15 @@
     "appId": null,
     "read": false,
     "createdAt": 1792413885940
+  },
+  {
+    "id": "msg_1792488174058_y7qcmw",
+    "studentId": "2413054036",
+    "title": "学分申请已通过",
+    "content": "您的活动「创新创业：智选云仓」学分申请已通过审核。",
+    "type": "approved",
+    "appId": "1792153688149_ji53wf_2413054036",
+    "read": false,
+    "createdAt": 1792488174058
   }
 ]
