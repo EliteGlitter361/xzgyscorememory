@@ -735,10 +735,11 @@
     "screenshots": [
       "mmexport1792152988453.jpg"
     ],
-    "status": "needs_fix",
+    "status": "pending",
     "createdAt": 1792153689668,
     "reviewedAt": 1792238861676,
-    "rejectReason": "图片没有突出主题"
+    "rejectReason": null,
+    "updatedAt": 1792466761771
   },
   {
     "id": "1792153760410_ui4rfo_2413054009",
