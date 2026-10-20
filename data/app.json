@@ -659,10 +659,11 @@
     "screenshots": [
       "2414.jpeg"
     ],
-    "status": "needs_fix",
+    "status": "pending",
     "createdAt": 1792153335460,
     "reviewedAt": 1792238596253,
-    "rejectReason": "图片没有突出主题"
+    "rejectReason": null,
+    "updatedAt": 1792466954898
   },
   {
     "id": "1792153356310_zhwni7_2413054017",
