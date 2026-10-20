@@ -752,10 +752,10 @@
     "screenshots": [
       "3371.jpeg"
     ],
-    "status": "pending",
+    "status": "needs_fix",
     "createdAt": 1792153762469,
-    "reviewedAt": 1792239832024,
-    "rejectReason": null,
+    "reviewedAt": 1792488234722,
+    "rejectReason": "创新创业:（xxx主题），要带主题",
     "updatedAt": 1792466747379
   },
   {
