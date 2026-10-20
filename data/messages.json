@@ -896,7 +896,7 @@
     "content": "您的活动「大学生创新创业」学分申请需要修改。\n原因：具体的主题名称",
     "type": "needs_fix",
     "appId": "1792153760410_ui4rfo_2413054009",
-    "read": false,
+    "read": true,
     "createdAt": 1792239834010
   },
   {
