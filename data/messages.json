@@ -1008,5 +1008,15 @@
     "appId": "1792153760410_ui4rfo_2413054009",
     "read": false,
     "createdAt": 1792488237217
+  },
+  {
+    "id": "msg_1792585106690_3eqakg",
+    "studentId": "system",
+    "title": "学分申请已通过",
+    "content": "您的活动「看电影:垫底辣妹」学分申请已通过审核。",
+    "type": "approved",
+    "appId": "1792585052077_nkwdhn_system",
+    "read": false,
+    "createdAt": 1792585106690
   }
 ]
