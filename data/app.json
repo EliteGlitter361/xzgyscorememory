@@ -872,5 +872,19 @@
     ],
     "status": "pending",
     "createdAt": 1792498501656
+  },
+  {
+    "id": "1792585052077_nkwdhn_system",
+    "name": "system",
+    "packageName": "system",
+    "versionName": "看电影:垫底辣妹",
+    "publisher": "2026-10-21 20:11",
+    "participants": "全班",
+    "screenshots": [
+      "1000203001.jpg",
+      "1000203002.jpg"
+    ],
+    "status": "pending",
+    "createdAt": 1792585057562
   }
 ]
