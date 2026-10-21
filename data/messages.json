@@ -1018,5 +1018,15 @@
     "appId": "1792585052077_nkwdhn_system",
     "read": false,
     "createdAt": 1792585106690
+  },
+  {
+    "id": "msg_1792585127358_oanat5",
+    "studentId": "2413054041",
+    "title": "学分申请需要修改",
+    "content": "您的活动「创新创业 从创意到价值创造  基础认知和实践教育PPT」学分申请需要修改。\n原因：标题主题与图片不符",
+    "type": "needs_fix",
+    "appId": "1792498499738_vie5j8_2413054041",
+    "read": false,
+    "createdAt": 1792585127358
   }
 ]
