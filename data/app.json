@@ -870,8 +870,10 @@
     "screenshots": [
       "1000025910.jpg"
     ],
-    "status": "pending",
-    "createdAt": 1792498501656
+    "status": "needs_fix",
+    "createdAt": 1792498501656,
+    "reviewedAt": 1792585124910,
+    "rejectReason": "标题主题与图片不符"
   },
   {
     "id": "1792585052077_nkwdhn_system",
